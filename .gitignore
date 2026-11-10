@@ -1,0 +1,22 @@
+# Python 快取與編譯檔案
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 虛擬環境
+venv/
+env/
+ENV/
+
+# 開發工具與編輯器設定 (VS Code / PyCharm)
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 系統檔案
+.DS_Store
+Thumbs.db
+
+# 執行匯出產生的資料檔
+output.json
